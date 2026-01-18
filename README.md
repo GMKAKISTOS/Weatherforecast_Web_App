@@ -22,7 +22,7 @@ The Weatherforecast Web App is a simple ASP.NET Core web application that provid
 1.  **Clone the Repository**
 
     ```bash
-    git clone https://github.com/panoschron97/Weatherforecast_Web_App.git
+    git clone https://github.com/GMKAKISTOS/Weatherforecast_Web_App.git
     cd Weatherforecast_Web_App
     ```
 
